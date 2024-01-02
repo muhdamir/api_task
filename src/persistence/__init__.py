@@ -1,0 +1,3 @@
+from .car_brand_repository import CarBrandRepository
+from .car_info_repository import CarInfoRepository
+from .car_model_repository import CarModelRepository
